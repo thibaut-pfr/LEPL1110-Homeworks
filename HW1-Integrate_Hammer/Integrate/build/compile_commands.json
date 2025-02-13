@@ -1,0 +1,102 @@
+[
+{
+  "directory": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build",
+  "command": "/usr/bin/gcc -Dgraphic -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/include\" -g -o CMakeFiles/myFem.dir/src/fem.c.o -c \"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/src/fem.c\"",
+  "file": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/src/fem.c"
+},
+{
+  "directory": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build",
+  "command": "/usr/bin/gcc -Dgraphic -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/include\" -g -o CMakeFiles/myFem.dir/src/glfem.c.o -c \"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/src/glfem.c\"",
+  "file": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/src/glfem.c"
+},
+{
+  "directory": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build",
+  "command": "/usr/bin/gcc -Dgraphic -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/include\" -g -o CMakeFiles/myFem.dir/src/homework.c.o -c \"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/src/homework.c\"",
+  "file": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/src/homework.c"
+},
+{
+  "directory": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build",
+  "command": "/usr/bin/gcc -Dgraphic -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/include\" -g -o CMakeFiles/myFem.dir/src/main.c.o -c \"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/src/main.c\"",
+  "file": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/src/main.c"
+},
+{
+  "directory": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/include\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src\" -g -fPIC -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/context.c.o -c \"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/context.c\"",
+  "file": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/context.c"
+},
+{
+  "directory": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/include\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src\" -g -fPIC -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/init.c.o -c \"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/init.c\"",
+  "file": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/init.c"
+},
+{
+  "directory": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/include\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src\" -g -fPIC -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/input.c.o -c \"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/input.c\"",
+  "file": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/input.c"
+},
+{
+  "directory": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/include\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src\" -g -fPIC -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/monitor.c.o -c \"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/monitor.c\"",
+  "file": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/monitor.c"
+},
+{
+  "directory": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/include\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src\" -g -fPIC -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/vulkan.c.o -c \"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/vulkan.c\"",
+  "file": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/vulkan.c"
+},
+{
+  "directory": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/include\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src\" -g -fPIC -Wall -Wdeclaration-after-statement -o CMakeFiles/glfw.dir/window.c.o -c \"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/window.c\"",
+  "file": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/window.c"
+},
+{
+  "directory": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/include\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src\" -g -fPIC -Wall -o CMakeFiles/glfw.dir/x11_init.c.o -c \"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/x11_init.c\"",
+  "file": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/x11_init.c"
+},
+{
+  "directory": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/include\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src\" -g -fPIC -Wall -o CMakeFiles/glfw.dir/x11_monitor.c.o -c \"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/x11_monitor.c\"",
+  "file": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/x11_monitor.c"
+},
+{
+  "directory": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/include\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src\" -g -fPIC -Wall -o CMakeFiles/glfw.dir/x11_window.c.o -c \"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/x11_window.c\"",
+  "file": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/x11_window.c"
+},
+{
+  "directory": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/include\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src\" -g -fPIC -Wall -o CMakeFiles/glfw.dir/xkb_unicode.c.o -c \"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/xkb_unicode.c\"",
+  "file": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/xkb_unicode.c"
+},
+{
+  "directory": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/include\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src\" -g -fPIC -Wall -o CMakeFiles/glfw.dir/posix_time.c.o -c \"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/posix_time.c\"",
+  "file": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/posix_time.c"
+},
+{
+  "directory": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/include\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src\" -g -fPIC -Wall -o CMakeFiles/glfw.dir/posix_thread.c.o -c \"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/posix_thread.c\"",
+  "file": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/posix_thread.c"
+},
+{
+  "directory": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/include\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src\" -g -fPIC -Wall -o CMakeFiles/glfw.dir/glx_context.c.o -c \"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/glx_context.c\"",
+  "file": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/glx_context.c"
+},
+{
+  "directory": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/include\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src\" -g -fPIC -Wall -o CMakeFiles/glfw.dir/egl_context.c.o -c \"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/egl_context.c\"",
+  "file": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/egl_context.c"
+},
+{
+  "directory": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/include\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src\" -g -fPIC -Wall -o CMakeFiles/glfw.dir/osmesa_context.c.o -c \"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/osmesa_context.c\"",
+  "file": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/osmesa_context.c"
+},
+{
+  "directory": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src",
+  "command": "/usr/bin/gcc -D_GLFW_USE_CONFIG_H -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/include\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src\" -I\"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/build/glfw/src\" -g -fPIC -Wall -o CMakeFiles/glfw.dir/linux_joystick.c.o -c \"/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/linux_joystick.c\"",
+  "file": "/mnt/c/Users/Looping/OneDrive - UCL/Documents/1-UCL Ma/FSA13BA-Q2/LEPL1110 - Elements finis/Devoirs/Devoir 1/glfw/src/linux_joystick.c"
+}
+]

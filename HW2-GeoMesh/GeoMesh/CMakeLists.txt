@@ -27,7 +27,6 @@ if(MSVC OR MSYS OR MINGW)
         file(COPY ${GMSH_DLL} DESTINATION ${CMAKE_BINARY_DIR})
     endif()
 endif(MSVC OR MSYS OR MINGW)
-
 if(APPLE)
     if(${CMAKE_SYSTEM_PROCESSOR} MATCHES "arm64")
         set(GMSH_LIBRARY ${CMAKE_SOURCE_DIR}/gmsh/${GMSH_VERSION}.${GMSH_MINOR}-MacOSARM-sdk/lib/libgmsh.dylib)

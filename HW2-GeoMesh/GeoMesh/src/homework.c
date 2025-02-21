@@ -1,14 +1,5 @@
 #include "fem.h"
-
-
-double hermiteBasis(double x, double x0, double x1, double y0, double y1, double y0_prime, double y1_prime) {
-    double t = (x - x0) / (x1 - x0);
-    double h00 = (1 + 2 * t) * (1 - t) * (1 - t);
-    double h10 = t * (1 - t) * (1 - t);
-    double h01 = t * t * (3 - 2 * t);
-    double h11 = t * t * (t - 1);
-    return h00 * y0 + h10 * (x1 - x0) * y0_prime + h01 * y1 + h11 * (x1 - x0) * y1_prime;
-}
+#include <math.h>
 
 
 double geoSize(double x, double y){
@@ -33,14 +24,43 @@ double geoSize(double x, double y){
     double dNotch = sqrt((x-x0)*(x-x0) + (y-y0)*(y-y0)) - r0;
     double dHole = sqrt((x-x1)*(x-x1) + (y-y1)*(y-y1)) - r1;
 
+
+
     if (dNotch < 0) h = h0;
     else if (dHole < 0) h = h1;  
     else if (dNotch < d0){
-        h = hermiteBasis(dNotch, 0, d0, h0, h, 0, 0);
+        double x = dNotch;
+        double x0 = 0;
+        double x1 = d0;
+        double y0 = h0;
+        double y1 = h;
+        double y0_prime = 0;
+        double y1_prime = 0;
+
+        double t = (x - x0) / (x1 - x0);
+        double h00 = (1 + 2 * t) * (1 - t) * (1 - t);
+        double h10 = t * (1 - t) * (1 - t);
+        double h01 = t * t * (3 - 2 * t);
+        double h11 = t * t * (t - 1);
+        h =  h00 * y0 + h10 * (x1 - x0) * y0_prime + h01 * y1 + h11 * (x1 - x0) * y1_prime;
     }
     else if (dHole < d1){
-        h = hermiteBasis(dHole, 0, d1, h1, h, 0, 0);
+        double x = dHole;
+        double x0 = 0;
+        double x1 = d1;
+        double y0 = h1;
+        double y1 = h;
+        double y0_prime = 0;
+        double y1_prime = 0;
+
+        double t = (x - x0) / (x1 - x0);
+        double h00 = (1 + 2 * t) * (1 - t) * (1 - t);
+        double h10 = t * (1 - t) * (1 - t);
+        double h01 = t * t * (3 - 2 * t);
+        double h11 = t * t * (t - 1);
+        h =  h00 * y0 + h10 * (x1 - x0) * y0_prime + h01 * y1 + h11 * (x1 - x0) * y1_prime;
     }
+
     return h;
     
 //   

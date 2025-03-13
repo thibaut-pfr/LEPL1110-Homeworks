@@ -25,3 +25,8 @@ void test_qr_band_small();
 void test_step_qr_tridiag();
 
 #endif
+
+// gcc -Wall -Wextra devoir_1.c utils.c -o devoir_1 -llapacke -llapack -lblas -lm
+// valgrind --leak-check=full ./devoir_1
+// valgrind --leak-check=full --track-origins=yes ./devoir_1
+// valgrind --leak-check=full --track-origins=yes --show-leak-kinds=all ./devoir_1

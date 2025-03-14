@@ -118,12 +118,15 @@ int main(int argc, char *argv[]) {
         perror("Unable to open file");
         return 1;
     }
+/* Uncomment to save the results in a csv file.
+
     fprintf(fp, "Iteration,Time (seconds),Band Size,Array Size\n");
 
     for (int i = 0; i < MAX_SIZE_TEST; i++) {
         fprintf(fp, "%d,%.6lf,%d,%d\n", i, time_array[i], band_array[i], size_array[i]);
     }
 
+*/
 
     fclose(fp);
 }

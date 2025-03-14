@@ -133,6 +133,8 @@ int tridiagonalize_band(double *A, int n, int k, double *d, double *e){
             while((i_chase < n)){
                 // Rotation coefficients
                 a = get(A,i_chase-1,j_chase); 
+                if(a == 0) break;
+
                 b = temp_garbage;
                 r = sqrt(a * a + b * b);
                 c = a / r;
@@ -328,10 +330,4 @@ int qr_eigs_band(double *A, int n, int k, double eps, int max_iter){
 
     if (iter == max_iter) return -1;
     return iter;
-}
-
-
-int main() {
-    test_qr_band_small();
-    return 0;
 }
